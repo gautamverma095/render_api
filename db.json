@@ -1,16 +1,18 @@
 {
-  "cars": [
+  "dogs": [
     {
       "id": 1,
-      "brand": "Tata",
-      "year": 2019,
-      "type": "Manual",
-      "kms": 1000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 1,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
     }
-  ],
-  "wishlisted_cars": [
-   
   ]
 }
